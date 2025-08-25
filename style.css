@@ -143,7 +143,7 @@
         height: 80px;
         font-weight: 900;
         display: flex;
-        font-size: 50px;
+        font-size: 45px;
         align-items: center;
     }
 
@@ -489,9 +489,10 @@ textarea{
 
 
 
+/* for mobile phoness */
 
-/* index */
-  @media (max-width: 500px) {
+@media (max-width: 500px) {
+    /* index */
   body {
     font-size: 17px;
    
