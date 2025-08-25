@@ -29,11 +29,6 @@ This project highlights my **front-end development skills** with a strong focus 
 - **HTML5** – Provides structure and semantic meaning to the pages.  
 - **CSS3** – Used for styling, layout, and responsiveness.    
 
----
-
-## 📷 Project Preview
-![Cooky Restaurant Website Preview](images/LIVE.png) 
-
 
 ---
 ### 📌 Additional Highlights
