@@ -19,7 +19,7 @@ This project highlights my **front-end development skills** with a strong focus 
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to view the live website](https://your-github-username.github.io/cooksy-restaurant-web/)  
+👉 [Click here to view the live website](https://awaistabaruk.github.io/Cooksy-resturant-web/index.html)  
 
 ---
 
@@ -27,13 +27,12 @@ This project highlights my **front-end development skills** with a strong focus 
 
 ## 🛠️ Technologies Used
 - **HTML5** – Provides structure and semantic meaning to the pages.  
-- **CSS3** – Used for styling, layout, and responsiveness.  
-- **JavaScript (Vanilla JS)** – Adds interactivity and smooth effects.  
+- **CSS3** – Used for styling, layout, and responsiveness.    
 
 ---
 
 ## 📷 Project Preview
-![Cooky Restaurant Website Preview](images/screnshot.png) 
+![Cooky Restaurant Website Preview](images/LIVE.png) 
 
 
 ---
@@ -47,7 +46,7 @@ This project highlights my **front-end development skills** with a strong focus 
 ## 📌 Learning Outcomes
 This project helped me strengthen my knowledge of:  
 - Responsive Web Design principles  
-- CSS Flexbox and Grid Layouts  
+- CSS Flexbox Layout
 - Reusable components and clean UI  
 - Writing structured HTML & CSS code  
 
