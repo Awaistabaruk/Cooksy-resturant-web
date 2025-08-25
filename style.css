@@ -782,4 +782,47 @@ footer {
 }
 
 
-     
+     /* contact us page */
+
+
+     @media (max-width: 500px) {
+  .frame {
+    font-size: 28px; /* smaller heading */
+    height: 7vh;
+    text-align: center;
+    padding: 10px;
+    margin-top: 18px;
+  }
+
+  .info {
+    flex-direction: column; /* stack form and map */
+    height: auto; /* allow natural height */
+    padding: 10px;
+  }
+.contactus{
+      background-color: rgb(145, 107, 57);
+    height: 688px;
+}
+  .contact,
+  .map {
+    width: 100%;  /* take full width */
+    height: auto; /* adjust height naturally */
+    margin-bottom: 15px;
+  }
+
+  form {
+    padding: 15px;
+    height: auto; /* fit content */
+  }
+
+  input,
+  textarea {
+    width: 90%;  /* responsive fields */
+    max-width: 100%;
+    font-size: 14px;
+  }
+
+  textarea {
+    height: 120px;
+  }
+}
