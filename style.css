@@ -20,7 +20,7 @@
         font-size: 26px;
         
     }
-    .pages{
+    /* .pages{
       height: 600px;
       width: 400px;
       background-color: black;
@@ -30,7 +30,7 @@
     }
     .hide{
        display: none;
-    }
+    } */
     .page1{
       background-color: aliceblue;
       height: 50px;
@@ -341,6 +341,7 @@
      }
 
    
+     
   
 
 
@@ -518,7 +519,7 @@ textarea{
              bottom: 491px;
         left: 248px;
         height: 559px;
-        width: 127px;
+        width: 140px;
         background-color: black;
         background-image: url(pics/contactus.jpg);
         order: 1;
