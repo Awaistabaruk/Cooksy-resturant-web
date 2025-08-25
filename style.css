@@ -1,0 +1,723 @@
+* {
+        margin: 0;
+        padding: 0;
+    }
+
+    header nav {
+        height: 80px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    header nav img {
+        height: 70px;
+        padding: 37px;
+    }
+
+    header nav .bar {
+        padding: 25px;
+        font-size: 26px;
+        
+    }
+    .pages{
+      height: 600px;
+      width: 400px;
+      background-color: black;
+      background-image: url(pics/contactus.jpg);
+      order: 1;
+     z-index: 1000; 
+    }
+    .hide{
+       display: none;
+    }
+    .page1{
+      background-color: aliceblue;
+      height: 50px;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      margin-top: 25px;
+       background-image: url(pics/contactus.jpg);
+      
+      
+    }
+    a{
+      text-decoration: none;
+      color: white;
+      padding: 10px;
+    }
+    .page2{
+      background-color: rgb(82, 115, 145);
+       background-image: url(pics/contactus.jpg);
+      height: 50px;
+      width: 100%;
+       display: flex;
+      align-items: center;
+      
+    }
+     .page3{
+      background-color: rgb(90, 150, 202);
+       background-image: url(pics/contactus.jpg);
+      height: 50px;
+      width: 100%;
+       display: flex;
+      align-items: center;
+      
+    }
+   
+    .pagess{
+      height: 60px;
+      background-color: maroon;
+      width: 485px;
+     border-radius: 50px;
+      order: 1;
+     z-index: 1000; 
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    }
+    .hide{
+       display: none;
+    }
+    .page11{
+      border-radius: 20px; 
+      height: 50px;
+      width: 25%;
+      display: flex;
+      align-items: center;
+      
+    }
+    .page11:hover{
+      background-color:rgb(233, 63, 63);
+      
+    }
+    a{
+      color: aliceblue;
+      text-decoration: none;
+    font-weight: 520;
+      padding: 10px;
+    }
+
+   
+
+    .banner {
+        height: 639px;
+        background-color: gray;
+        display: flex;
+        justify-content: center;
+    }
+
+    .ban1 {
+        height: 640px;
+        width: 45vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .ban1 img {
+        height: 450px;
+    }
+
+    .bantext {
+        height: 503px;
+        width: 55vw;
+        padding-top: 137px;
+
+    }
+
+    .offmsg {
+        height: 40px;
+        width: 200px;
+        color: white;
+        font-weight: 900;
+        background-color: olivedrab;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .heading1 {
+        height: 80px;
+        font-weight: 900;
+        display: flex;
+        font-size: 50px;
+        align-items: center;
+    }
+
+    .bantext p {
+        height: 50px;
+        width: 470px;
+        font-size: 16px;
+    }
+
+    .explore {
+        height: 60px;
+        width: 170px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(141, 50, 50);
+    }
+
+    .explore h2 {
+        font-size: 20px;
+    }
+
+    .explore:hover {
+        /* background-color: rgb(182, 163, 163); */
+        background-color: rgb(134, 24, 24);
+    }
+
+    .fac {
+        height: 110px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .discount {
+        height: 100px;
+        width: 310px;
+        display: flex;
+        padding: 0px 53px;
+
+    }
+
+    .discount p {
+        font-size: 10px;
+    }
+
+    .logo1 {
+        height: 100px;
+        width: 80px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .logo1 img {
+        height: 70px;
+    }
+
+    .head {
+        height: 100px;
+        width: 250px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+    }
+      .ourmenu{
+        height: 200px;
+            background-color: hsl(0, 73%, 31%);
+          color: aliceblue;
+            display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .ourmenu h2{
+        position: relative;
+  top: 15px;
+  font-size: 35px;
+    }
+ .om{
+      height: 60px;
+        width: 170px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: olivedrab;
+        font-size: 20px;
+        font-weight: 900;
+ }
+ .menu {
+        background-color: hsl(164, 88%, 67%);
+         background-image: url(pics/contactus.jpg);
+        height: 770px;
+        display: flex;
+        justify-content: space-around;
+    
+    } 
+ .pic1{
+    
+    height: 585px;
+    width: 585px;
+ }
+  .pic2{
+    
+    height: 585px;
+    width: 276px;
+ }
+   .pic3{
+    background-color: hsl(164, 88%, 67%);
+    height: 305px;
+    width: 277px;
+ }
+    .pic4{
+   
+    height: 278px;
+    width: 277px;
+ }
+ .manage{
+    display: flex;
+  
+    flex-direction: column;
+ }
+
+
+   footer{
+    /* background-color: crimson; */
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } 
+
+  .logo2{
+    height: 200px;
+    width: 200px;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: center;
+  }
+   .logo2 img{
+    height: 100px;
+   }
+  .links{
+      height: 200px;
+      width: 200px;
+      /* background-color: rgb(145, 45, 45); */
+      display: flex;
+    
+      align-items: center;
+      flex-direction: column;
+     
+    }
+  .links li{
+    list-style: none;
+  }
+   .support li{
+    list-style: none;
+  }
+     .links h4{
+         padding-bottom: 12px;
+     }
+     .support h4{
+        padding-bottom: 12px;
+        
+     }
+    .support{
+        height: 200px;
+        width: 200px;
+        
+        display: flex;
+      
+      align-items: center;
+      flex-direction: column;
+      
+    }
+    .follow{
+     height: 200px;
+     width: 200px;
+     
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+   }
+   .follow h4{
+    padding-bottom: 15px;
+   
+   }
+     .follow input{
+       margin-bottom: 15px;
+       border-radius: 5px;
+       padding-right: 15px;
+       border: 0.1px solid palevioletred;
+     }
+
+     .icons{
+        display: flex;
+        width: 120px;
+        justify-content: space-between;
+     }
+     .icons i{
+        font-size: xx-large;
+     }
+
+   /* index responsive */
+  
+
+
+   /* about us page */
+   .about{
+    height: 100vh;
+    width: 100%;
+    background-color: hsl(164, 88%, 67%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+
+   .aboutimg{
+    background-color: antiquewhite;
+    height: 88vh;
+    width: 35%;
+   }
+   .abouttext{
+    background-color: azure;
+    height: 82vh;
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: 15px;
+   }
+   .heading2{
+    /* background-color: rgb(82, 104, 104); */
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    font-weight: 800;
+   }
+    .text2{
+   background-color: azure;
+    height: 380px;
+    display: flex;
+  padding-left: 10px;
+    flex-direction: column;
+    font-size: 18px;
+  
+   }
+   /* contactus */
+   .contactus{
+    background-color: rgb(145, 107, 57);
+    height: 900px;
+    
+   }
+   
+   .frame{
+     background-color: rgb(97, 1, 1);
+     /* background-image: url(pics/Super-Brown-Wallpaper.jpg); */
+     background-size: cover;
+     height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  font-weight: 500;
+  color: aliceblue;
+}
+
+.info{
+  height: 770px;
+   /* background-color: hsl(164, 88%, 67%); */
+   background-image: url(pics/1381849.jpg);
+    background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact{
+  height: 80vh;
+  width: 40vw;
+
+ 
+}
+.map{
+  height: 80vh;
+  width: 40vw;
+  background-color: rgb(145, 108, 108);
+  
+}
+form{
+  /* background-color:rgb(126, 35, 35); */
+  background-image: url(pics/contactus.jpg);
+  background-size: cover;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+ color: azure;
+ border-radius: 10px;
+ 
+}
+input{
+  height: 30px;
+  width:500px;
+  margin: 10px;
+  border-radius: 10px;
+}
+textarea{
+  margin: 10px;
+  margin-left: 20px;
+  width:500px;
+}
+/* menu page */
+
+.adjust{
+  height: 100px;
+  /* background-color:  rgb(94, 20, 10); */
+  background-image: url(pics/menu\ back.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 35px;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+}
+.menu-view{
+  background-color: rgb(94, 20, 10);
+  height: 1500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.menuu{
+  /* background-image: url(pics/menu\ back.jpg); */
+  background-color:  rgb(94, 20, 10);
+  height: 1200px;
+  width: 90%;
+  display: flex;
+    justify-content: space-around;
+ 
+}
+.item{
+  height: 400px;
+  width: 400px;
+  background-color: aliceblue;
+}
+
+
+
+
+
+  @media (max-width: 500px) {
+  body {
+    font-size: 17px;
+   
+  }
+
+  header nav {
+    height: 105px;
+        display: flex;
+        align-items: end;
+   
+  }
+
+  header nav img {
+   height: 50px;
+    padding: 0px 30px;
+  }
+
+  header nav .bar {
+    padding: 0 20px;
+    font-size: 18px;
+  }
+.pages{
+             bottom: 491px;
+        left: 248px;
+        height: 559px;
+        width: 127px;
+        background-color: black;
+        background-image: url(pics/contactus.jpg);
+        order: 1;
+        z-index: 1000;
+        position: relative;
+}
+  .banner {
+    height: 670px;
+    flex-direction: column;
+    padding: 9px 0px;
+  }
+
+  .ban1, .bantext {
+    width: 100vw;
+    height: auto;
+    padding: 0 10px;
+  }
+
+  .ban1 img {
+    height: 250px;
+    width: auto;
+    max-width: 100%;
+  }
+
+  .bantext {
+    padding-top: 20px;
+  
+    padding-left: 0px;
+  padding-right: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+
+  .offmsg {
+    width: 150px;
+    height: 30px;
+    font-size: 14px;
+  }
+
+  .heading1 {
+    height: auto;
+    font-size: large;
+    justify-content: center;
+    padding: 10px 0;
+  }
+
+  .bantext p {
+    width: 100%;
+    height: auto;
+    font-size: 13px;
+    position: relative;
+  right: -10px;
+  }
+
+  .explore {
+    width: 140px;
+    height: 50px;
+    position: relative;
+    top: 35px;
+  }
+  
+
+  .explore h2 {
+    font-size: 16px;
+  }
+
+  .fac {
+    height: auto;
+    flex-direction: column;
+  }
+
+  .discount {
+    width: 100%;
+    padding: 10px 0;
+    flex-direction: column;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .discount p {
+    font-size: 12px;
+    padding-bottom: 10px;
+  }
+
+  .logo1 {
+    width: 60px;
+    height: auto;
+  }
+
+  .logo1 img {
+    height: 50px;
+  }
+
+  .head {
+    width: 100%;
+    height: auto;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: center;
+  }
+    .ourmenu {
+    height: auto;
+    padding: 20px 10px;
+  }
+
+  .ourmenu h2 {
+    font-size: 24px;
+    top: 0;
+  }
+
+  .om {
+    width: 140px;
+    height: 50px;
+    font-size: 16px;
+    position: relative;
+    left: 14px;
+  }
+
+  .menu {
+    height: auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px 0;
+  }
+
+  .pic1,.pic2{
+    display: none;
+  } 
+  .pic3, .pic4 {
+    width: 90%;
+    height: auto;
+  }
+
+  .manage {
+    flex-direction: column;
+    align-items: center;
+  }
+
+footer {
+  flex-direction: row;
+  
+  justify-content: space-between;
+  align-items: flex-start;
+  height: auto;
+  padding: 15px 10px;
+  gap: 10px;
+}
+
+.support{
+  display: none;
+}
+.joinus{
+  display: none;
+}
+.links{
+  display: none;
+}
+.follow input {
+  width: 100%;
+  font-size: 12px;
+  padding: 4px 8px;
+  margin-bottom: 10px;
+}
+
+
+.icons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.icons i {
+  font-size: 18px;
+}
+
+ 
+} 
+     /* 1st page done  */
+
+
+
+
+     /* now about page */
+
+     
